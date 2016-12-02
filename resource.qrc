@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>eraser.png</file>
+        <file>longnotes.png</file>
+        <file>pencil.png</file>
+        <file>star.png</file>
+    </qresource>
+</RCC>
